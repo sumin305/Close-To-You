@@ -1,9 +1,11 @@
 # 💛 Close To You 💛
 ## 시각장애인을 위한 스마트 AI 옷장 서비스👨🏼‍🦯
-
-<img src="https://file.notion.so/f/f/df80fcb2-bab7-4b42-96f7-0674f0c31cbc/3b75b215-0d83-4538-8d19-8163d7e2488b/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.png?table=block&id=c7b63e34-3f47-4511-9dae-c9f603464587&spaceId=df80fcb2-bab7-4b42-96f7-0674f0c31cbc&expirationTimestamp=1723860000000&signature=vPBOSgb68WRlNx1ub6NVvVpujmAhvd2gBBjYsWcgvV8&downloadName=%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.png" alt="서비스 소개 이미지" />
+![010](https://github.com/user-attachments/assets/be87913d-c657-480c-9a3a-bf661a6468c5)
 
 # 👋🏻 프로젝트 소개
+## ⁉ 기획 배경
+![007](https://github.com/user-attachments/assets/85e68f75-9c36-48bc-841b-eec109f0dc00)
+![008](https://github.com/user-attachments/assets/6e134b47-3d8b-4684-b440-dd3e2382126a)
 
 1. 시각장애인의 옷의 색상, 종류, 패턴 인식의 어려움
 2. 시각장애인의 옷의 위치 파악의 어려움
@@ -16,10 +18,23 @@
 
 
 ## 🌟 주요 기능
+![011](https://github.com/user-attachments/assets/4424dcad-20b0-4b57-8a81-f3154968dd53)
 
 - 적외선 센서, NFC 태그 등 IoT 센서와 AI 기술을 사용한 옷 위치, 옷 정보 저장
 - 음성 인식 기술과 음성 안내  기술로 원하는 옷의 위치를 파악하여 안내
 - NFC 태깅을 통해 나만의 코디 저장, 편리한 옷 정보 파악
+
+# AIOT
+![014](https://github.com/user-attachments/assets/c34c097f-48d5-4501-ac53-921ef910e7af)
+![015](https://github.com/user-attachments/assets/43265446-9d94-46b2-89a6-d5aab535aa37)
+![016](https://github.com/user-attachments/assets/c01d143b-50f5-4e9a-b637-241bc2221cf4)
+![017](https://github.com/user-attachments/assets/6cdf94eb-86e4-4c86-b7ea-374063ba3a2a)
+![018](https://github.com/user-attachments/assets/38208c20-4d52-4be3-ad7b-754517d91978)
+![019](https://github.com/user-attachments/assets/f761d085-83a1-414d-9878-411698eadfd7)   
+
+# 기술적 도전
+![023](https://github.com/user-attachments/assets/f0ceb507-8ed5-456b-98f1-a37753fea78c)
+
 
 
 # 🤝🏼 팀원 구성 및 역할
@@ -63,19 +78,6 @@ CI/CD `Jenkins`
 
 배포 `docker` `docker-compose` `aws` `nginx`
 
-
-# 🤙 컨벤션
-
-[**🚩팀 깃 컨벤션**](https://classic-molecule-29c.notion.site/cd99a1d9ae8c480ea8ccc2ad521ea011?pvs=4)
-
-[**🦄프론트엔드 코딩 컨벤션**](https://classic-molecule-29c.notion.site/a6ec100c97564531a81d89ce721fe6aa?pvs=4)
-
-[**🦾백엔드 코딩 컨벤션**](https://classic-molecule-29c.notion.site/50d4e77f80b8448b894b48fb0494a628?pvs=4)
-
-# 🏗️ 시스템 아키텍쳐
-<img src="https://file.notion.so/f/f/df80fcb2-bab7-4b42-96f7-0674f0c31cbc/45a3ef43-644d-4fa7-8c8a-aeb1556f356f/image.png?table=block&id=fabb9ce3-e69e-4495-9e62-eba9ed18cd96&spaceId=df80fcb2-bab7-4b42-96f7-0674f0c31cbc&expirationTimestamp=1723860000000&signature=Md7_PKSuorL-N3cRj4ktR9SOKKEOPHQR6LBeVH3ZrUg&downloadName=image.png" alt="시스템 아키텍쳐" height="300">
-
-
 # 💡 기획 및 설계
 
 [**🔬GitLab**](https://lab.ssafy.com/s11-webmobile3-sub2/S11P12B201)
@@ -87,12 +89,22 @@ CI/CD `Jenkins`
 💽[**ERD**](https://www.erdcloud.com/d/TvvSLbKd2qr6xqLmr)
 
 
+# 🤙 컨벤션
+
+[**🚩팀 깃 컨벤션**](https://classic-molecule-29c.notion.site/cd99a1d9ae8c480ea8ccc2ad521ea011?pvs=4)
+
+[**🦄프론트엔드 코딩 컨벤션**](https://classic-molecule-29c.notion.site/a6ec100c97564531a81d89ce721fe6aa?pvs=4)
+
+[**🦾백엔드 코딩 컨벤션**](https://classic-molecule-29c.notion.site/50d4e77f80b8448b894b48fb0494a628?pvs=4)
+
+# 🏗️ 시스템 아키텍쳐
+![image](https://github.com/user-attachments/assets/dc0580f9-3c72-4c5c-9f2a-cfcc64794db0)
+
+
+
 [**✍️요구사항 명세서**](https://classic-molecule-29c.notion.site/02f41ba9f56844c08e693170619fac19?pvs=4)
 
 [**✍️기능 명세서**](https://classic-molecule-29c.notion.site/2e3f64a5ddbf4d2c89d8837a53fa8ed9?pvs=4)
-
-# 하드웨어 결과물
-<img src="https://file.notion.so/f/f/df80fcb2-bab7-4b42-96f7-0674f0c31cbc/23d9d736-ed25-48a6-8598-edc96da39674/image.png?table=block&id=d3d3dc5a-617c-412f-b5bc-a54fbb1fd48d&spaceId=df80fcb2-bab7-4b42-96f7-0674f0c31cbc&expirationTimestamp=1723860000000&signature=cbG_uOj852qL6JaOpZPWojy30VIl069Y0OduIXWzNSE&downloadName=image.png" alt="하드웨어 결과물" height="300">
 
 # 🤖 AI 성능 지표
 ## 옷 종류 구분
